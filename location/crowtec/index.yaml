@@ -1,9 +1,9 @@
 title: Oficina Crowtec
-image: /location/test/media/cover.png
+image: /location/crowtec/media/cover.png
 content: |
   Caw, caw!
 model:
-  src: /location/test/model.gltf
+  src: /location/crowtec/model.gltf
 place:
   name: Crowtec
   id: ThF2jbrx3375MLQF8
