@@ -1,0 +1,12 @@
+title: Oficina Crowtec
+image: /location/test/media/cover.png
+content: |
+  Caw, caw!
+model:
+  src: /location/test/model.gltf
+place:
+  name: Crowtec
+  id: ThF2jbrx3375MLQF8
+  coordinate:
+    lat: 40.46489987481878
+    lng: -3.679465405792457
