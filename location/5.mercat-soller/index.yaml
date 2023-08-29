@@ -8,7 +8,7 @@ model:
   src: /location/5.mercat-soller/model.gltf
 place:
   name: Mercadet municipal de Sóller
-  id: 1WfQppcry5Lc8MJS9
+  id: a6J7VbmEuu5Z8DRX6
   coordinate:
-    lat: 39.765541147241436
-    lng: 2.715009430435685
+    lat: 39.765544874854754
+    lng: 2.7150107295485464

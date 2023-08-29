@@ -7,8 +7,8 @@ content: |
 model:
   src: /location/4.mercat-inca/model.gltf
 place:
-  name: Mercat municipal de Inca
-  id: sfyRWptee6uCw2E48
+  name: Mercadillo semanal de Inca
+  id: LpN9edC3oGR36Rsn8
   coordinate:
-    lat: 39.720339471314425
-    lng: 2.910688018773725
+    lat: 39.7208055224614
+    lng: 2.9088209345148344

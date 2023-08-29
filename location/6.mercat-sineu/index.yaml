@@ -8,6 +8,7 @@ model:
   src: /location/6.mercat-sineu/model.gltf
 place:
   name: Mercadet municipal de Sineu
+  id: bMkeXftHqRf3egUVA
   coordinate:
-    lat: 39.643088460365114
-    lng: 3.01217366282297
+    lat: 39.64309754476773
+    lng: 3.0121783207134056

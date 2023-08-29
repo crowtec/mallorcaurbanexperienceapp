@@ -8,7 +8,7 @@ model:
   src: /location/1.mercat-olivar/model.gltf
 place:
   name: Mercado del Olivar
-  id: yMA4FQ5HuAwAeanSA
+  id: 94SqG7iLtEWBCDF79
   coordinate:
-    lat: 39.57375326432515
-    lng: 2.653495918619697
+    lat: 39.573756594764255
+    lng: 2.653488484332336
