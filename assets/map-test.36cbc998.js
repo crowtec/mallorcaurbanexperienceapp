@@ -1,0 +1,1 @@
+import c from"./Map.ede62d49.js";import{a as t,c as r,o as e}from"./entry.3b884c34.js";import"./LightComp.64e518b5.js";import"./client-only.5183477f.js";const n={};function a(s,_){const o=c;return e(),r(o)}const d=t(n,[["render",a]]);export{d as default};
