@@ -1,0 +1,14 @@
+title: Mercat de L'Olivar
+image: /location/1.mercat-olivar/media/cover.jpg
+content: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  <br><br>
+  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+model:
+  src: /location/1.mercat-olivar/model.gltf
+place:
+  name: Mercado del Olivar
+  id: yMA4FQ5HuAwAeanSA
+  coordinate:
+    lat: 39.57375326432515
+    lng: 2.653495918619697

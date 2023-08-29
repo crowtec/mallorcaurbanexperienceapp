@@ -1,0 +1,14 @@
+title: Mercat de Santa María del Camí
+image: /location/7.mercat-santa-maria-cami/media/cover.jpg
+content: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  <br><br>
+  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+model:
+  src: /location/7.mercat-santa-maria-cami/model.gltf
+place:
+  name: Mercado de Santa Maria del Cami
+  id: So6P7PpvZJWFKfGY9
+  coordinate:
+    lat: 39.64968094335578
+    lng: 2.777636890997133

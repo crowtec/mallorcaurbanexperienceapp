@@ -1,0 +1,14 @@
+title: Playa de Portals Nous
+image: /location/9.playa-portals-nous/media/cover.jpg
+content: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  <br><br>
+  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+model:
+  src: /location/9.playa-portals-nous/model.gltf
+place:
+  name: Playa de Portals Nous
+  id: GhiY5BF54fLJi6Jx5
+  coordinate:
+    lat: 39.53207032627308
+    lng: 2.5738362721331076
