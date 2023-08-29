@@ -1,1 +1,0 @@
-import o from"./Radar.6d2603db.js";import{a as t,f as c,e as n,o as r}from"./entry.c3403a7c.js";const s={},a={class:"bg-gray-500 h-screen flex justify-center items-center overflow-hidden"};function _(f,d){const e=o;return r(),c("section",a,[n(e,{class:"top-1/2"})])}const l=t(s,[["render",_]]);export{l as default};
