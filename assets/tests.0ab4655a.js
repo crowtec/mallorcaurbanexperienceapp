@@ -1,0 +1,1 @@
+import t from"./Tests.3cd804e6.js";import{i as c,c as e,o as n}from"./entry.27abe94a.js";import"./LightComp.144daac9.js";import"./client-only.186de0b6.js";const r={};function s(_,m){const o=t;return n(),e(o)}const u=c(r,[["render",s]]);export{u as default};
