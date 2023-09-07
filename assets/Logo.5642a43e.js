@@ -1,0 +1,1 @@
+import{o,k as e,f as t}from"./entry.bf3c8058.js";import{_ as s}from"./_plugin-vue_export-helper.c27b6911.js";const c=""+new URL("logo.042a0e53.svg",import.meta.url).href,_={},n={class:"h-28 p-7"},r=t("img",{src:c,alt:"Urban Hostel",class:"w-full h-full"},null,-1),a=[r];function l(f,i){return o(),e("div",n,a)}const d=s(_,[["render",l]]);export{d as default};
