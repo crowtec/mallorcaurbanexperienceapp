@@ -1,1 +1,0 @@
-import o from"./Radar.23fcbcd3.js";import{_ as t}from"./_plugin-vue_export-helper.c27b6911.js";import{c,b as r,o as n}from"./entry.1d340eb5.js";const s={},a={class:"bg-gray-500 h-screen flex justify-center items-center overflow-hidden"};function _(f,m){const e=o;return n(),c("section",a,[r(e,{class:"top-1/2"})])}const l=t(s,[["render",_]]);export{l as default};
