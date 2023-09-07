@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{o,c as s,bF as n}from"./entry.bf0cf374.js";const c={},r={class:"text-5xl font-asul"};function _(t,a){return o(),s("h1",r,[n(t.$slots,"default")])}const m=e(c,[["render",_]]);export{m as default};
