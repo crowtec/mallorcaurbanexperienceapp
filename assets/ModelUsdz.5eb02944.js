@@ -1,0 +1,1 @@
+import{_ as o}from"./client-only.73ba8d75.js";import"./aframe-ar.a4f0eb54.js";import{o as a,k as n,h as r,w as s,f as e}from"./entry.c4142aad.js";const _=e("a",{href:"/sneaker_airforce.usdz",rel:"ar"},[e("div",null,"test")],-1),u={__name:"ModelUsdz",setup(c){return(l,d)=>{const t=o;return a(),n("div",null,[r(t,null,{default:s(()=>[_]),_:1})])}}};export{u as default};
