@@ -3,7 +3,7 @@ image: /location/crowtec/media/cover.png
 content: |
   Caw, caw!
 model:
-  glbSrc: /location/crowtec/model.gltf
+  glbSrc: /location/crowtec/model.glb
 place:
   name: Crowtec
   id: ThF2jbrx3375MLQF8
