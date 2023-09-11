@@ -1,1 +1,0 @@
-import e from"./Divider.572730ae.js";import{_ as t}from"./_plugin-vue_export-helper.c27b6911.js";import{k as c,h as r,o as n}from"./entry.4ed69809.js";const _={},s={class:"mt-5"};function a(i,m){const o=e;return n(),c("div",s,[r(o)])}const l=t(_,[["render",a]]);export{l as default};
