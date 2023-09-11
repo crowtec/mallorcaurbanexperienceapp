@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{o,k as t}from"./entry.cc7b83e5.js";const c={},_={class:"w-full h-[1.5px] bg-blue-950"};function n(r,s){return o(),t("div",_)}const l=e(c,[["render",n]]);export{l as default};
