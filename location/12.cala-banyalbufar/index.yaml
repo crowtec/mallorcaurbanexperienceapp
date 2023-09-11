@@ -1,5 +1,6 @@
 title: Cala Banyalbufar
-image: /location/12.cala-banyalbufar/media/cover.jpg
+#image: /location/12.cala-banyalbufar/media/cover.jpg
+image: https://playasbaleares.s3.fr-par.scw.cloud/2015/12/banyalbufar1.jpg
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.689970671612855
     lng: 2.512102114329726
-  position: "-3.5 1.5 -5.4"
+  position: '-3.5 1.5 -5.4'

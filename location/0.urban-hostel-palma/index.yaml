@@ -1,5 +1,6 @@
 title: Urban Hostel Palma
-image: /location/0.urban-hostel-palma/media/cover.jpg
+#image: /location/0.urban-hostel-palma/media/cover.jpg
+image: https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/3/305951/fu0tmyt6trsbfmnmofq2
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>

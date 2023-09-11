@@ -1,5 +1,6 @@
 title: Playa de Soller
-image: /location/11.playa-soller/media/cover.jpg
+#image: /location/11.playa-soller/media/cover.jpg
+image: https://admin.soller.es/uploads/explores/img_explore_10_1527246340.jpeg
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.795092761168796
     lng: 2.696729933845281
-  position: "0 1.5 -5.4"
+  position: '0 1.5 -5.4'

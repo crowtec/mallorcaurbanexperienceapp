@@ -1,5 +1,6 @@
 title: Mercat de Soller
-image: /location/5.mercat-soller/media/cover.jpg
+#image: /location/5.mercat-soller/media/cover.jpg
+image: https://media.mallorca-touristguide.com/imagenes/1352/mercado%20de%20soller%2026.8.19%20-002.JPG
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.765544874854754
     lng: 2.7150107295485464
-  position: "1 5 -5.1"
+  position: '1 5 -5.1'

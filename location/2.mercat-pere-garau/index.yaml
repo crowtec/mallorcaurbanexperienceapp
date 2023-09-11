@@ -1,5 +1,6 @@
 title: Mercat de Pere Garau
-image: /location/2.mercat-pere-garau/media/cover.jpg
+#image: /location/2.mercat-pere-garau/media/cover.jpg
+image: https://www.masmallorca.es/wp-content/uploads/2012/11/mercados-de-abastos-palma-mallorca-2.jpg
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.57472593768858
     lng: 2.6643051585909756
-  position: "-2.2 2.6 -0.5"
+  position: '-2.2 2.6 -0.5'

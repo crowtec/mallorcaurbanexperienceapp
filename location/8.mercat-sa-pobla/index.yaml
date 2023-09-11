@@ -1,5 +1,6 @@
 title: Mercat de Sa Pobla
-image: /location/8.mercat-sa-pobla/media/cover.jpg
+#image: /location/8.mercat-sa-pobla/media/cover.jpg
+image: https://media.mallorca-touristguide.com/imagenes/1327/mercado%20sa%20pobla%20principal%201.JPG
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -14,4 +15,4 @@ place:
   coordinate:
     lat: 39.7698347118878
     lng: 3.0245314233640315
-  position: "2.6 2 -0.7"
+  position: '2.6 2 -0.7'

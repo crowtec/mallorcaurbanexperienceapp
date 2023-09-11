@@ -1,5 +1,6 @@
 title: Mercat de Sineu
-image: /location/6.mercat-sineu/media/cover.jpg
+#image: /location/6.mercat-sineu/media/cover.jpg
+image: https://media.mallorca-touristguide.com/imagenes/1258/mercado%20de%20sineu%2012.10.19%20-%20008.JPG
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.64309754476773
     lng: 3.0121783207134056
-  position: "-1 3 1.7"
+  position: '-1 3 1.7'

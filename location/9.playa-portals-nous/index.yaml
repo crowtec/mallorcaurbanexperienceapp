@@ -1,5 +1,6 @@
 title: Playa de Portals Nous
-image: /location/9.playa-portals-nous/media/cover.jpg
+#image: /location/9.playa-portals-nous/media/cover.jpg
+image: https://i0.wp.com/visitcalvia.org/wp-content/uploads/2020/04/SORATORI-PORTALS-NOUS02.png
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.53205091448293
     lng: 2.5738202396048093
-  position: "-4 1.4 -1.5"
+  position: '-4 1.4 -1.5'

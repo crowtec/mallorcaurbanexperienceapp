@@ -1,5 +1,6 @@
 title: Mercat de L'Olivar
-image: /location/1.mercat-olivar/media/cover.jpg
+#image: /location/1.mercat-olivar/media/cover.jpg
+image: https://www.visitpalma.com/media/site1/cache/images/dsc-5644.jpg
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.573756594764255
     lng: 2.653488484332336
-  position: "-2.8 2.8 -1.8"
+  position: '-2.8 2.8 -1.8'

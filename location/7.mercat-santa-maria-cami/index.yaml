@@ -1,5 +1,6 @@
 title: Mercat de Santa María del Camí
-image: /location/7.mercat-santa-maria-cami/media/cover.jpg
+#image: /location/7.mercat-santa-maria-cami/media/cover.jpg
+image: https://media.mallorca-touristguide.com/imagenes/1325/mercado%20santa%20maria%20del%20cami%2030.7.19%20-%20001.JPG
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.64969870085734
     lng: 2.7776242154353996
-  position: "0.1 7 -1.2"
+  position: '0.1 7 -1.2'

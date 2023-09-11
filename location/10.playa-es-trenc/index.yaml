@@ -1,5 +1,6 @@
 title: Playa de Es Trenc
-image: /location/10.playa-es-trenc/media/cover.jpg
+#image: /location/10.playa-es-trenc/media/cover.jpg
+image: https://cdn2.click-mallorca.com/blog/wp-content/uploads/2020/05/es-trenc-mallorca-1.jpg
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.33860429990058
     lng: 2.9900574922551955
-  position: "-3 1.4 3.5"
+  position: '-3 1.4 3.5'

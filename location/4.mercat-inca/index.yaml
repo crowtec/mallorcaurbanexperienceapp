@@ -1,5 +1,6 @@
 title: Mercat d'Inca
-image: /location/4.mercat-inca/media/cover.jpg
+#image: /location/4.mercat-inca/media/cover.jpg
+image: https://media.mallorca-touristguide.com/imagenes/1224/mercado%20semanal%20de%20inca%207.2.19%20-%20009.JPG
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.7208055224614
     lng: 2.9088209345148344
-  position: "0.5 2.5 0"
+  position: '0.5 2.5 0'

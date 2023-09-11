@@ -1,5 +1,6 @@
 title: Mercat de Santa Catalina
-image: /location/3.mercat-santa-catalina/media/cover.jpg
+#image: /location/3.mercat-santa-catalina/media/cover.jpg
+image: https://lonja18.com/wp-content/uploads/2022/07/MERCADO-SANTA-CATALINA-2.jpg
 content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   <br><br>
@@ -13,4 +14,4 @@ place:
   coordinate:
     lat: 39.57121021451575
     lng: 2.638281313874807
-  position: "-2 1.8 -1.5"
+  position: '-2 1.8 -1.5'
