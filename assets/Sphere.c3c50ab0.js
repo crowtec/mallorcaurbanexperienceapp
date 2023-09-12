@@ -1,0 +1,1 @@
+import{e as r,o as n,c as t}from"./entry.11da2d75.js";const p={__name:"Sphere",props:{color:String,position:String},setup(o){return(s,c)=>{const e=r("a-sphere");return n(),t(e,{position:o.position,radius:"1.25",color:o.color},null,8,["position","color"])}}};export{p as default};
