@@ -1,1 +1,0 @@
-function i(){const a=navigator.userAgent,e=a.match(/iPhone|iPad|iPod/),o=window.matchMedia("(display-mode: standalone)").matches||window.matchMedia("(display-mode: fullscreen)").matches;return console.log("display mode!!!"),console.log(o),!!(o||e&&!a.match(/Safari/))}export{i};
