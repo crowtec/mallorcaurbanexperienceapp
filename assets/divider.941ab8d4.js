@@ -1,1 +1,0 @@
-import o from"./Divider.4517fcef.js";import{k as t,l as c,h as n,o as r}from"./entry.47e9ab2e.js";const _={},s={class:"mt-5"};function a(i,d){const e=o;return r(),c("div",s,[n(e)])}const p=t(_,[["render",a]]);export{p as default};
