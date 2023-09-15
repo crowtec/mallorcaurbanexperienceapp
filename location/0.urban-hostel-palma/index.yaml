@@ -3,9 +3,11 @@ title: Urban Hostel Palma
 image: https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/3/305951/fu0tmyt6trsbfmnmofq2
 content:
   intro: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    ¡Bienvenido a Urban Hostel Palma, ubicado en el pintoresco barrio de Santa Catalina! Este acogedor albergue, construido en un antiguo convento con una historia que se remonta atrás en el tiempo, te ofrece un ambiente dinámico, fresco y lleno de diversión. Es el punto de encuentro perfecto para viajeros de todo el mundo que buscan conectar y disfrutar de la belleza de la Isla de Mallorca.
+  description: |
+    Mientras exploras este histórico barrio de pescadores, notarás las típicas viviendas con sus encantadoras terrazas y fachadas adornadas con persianas mallorquinas. Pero lo que realmente destaca en Urban Hostel Palma es la impresionante vidriera redonda que preside el lugar. Esta vidriera es una verdadera obra maestra, una ventana circular que filtra la luz del sol de manera mágica, llenando el espacio con un caleidoscopio de colores brillantes que dan vida a la atmósfera del albergue.
     <br><br>
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Este rincón único te invita a contemplar la belleza de la artesanía mallorquina mientras te relajas en el área común o disfrutas de una conversación con otros viajeros. Aprovecha tu visita para explorar los tesoros ocultos de Mallorca y sumérgete en la autenticidad de Mallorca. ¿Estás listo para vivir una experiencia única?
 model:
   glbSrc: /location/0.urban-hostel-palma/model.glb
   usdzSrc: /location/0.urban-hostel-palma/model.usdz
