@@ -1,10 +1,14 @@
 title: Mercat de Soller
 #image: /location/5.mercat-soller/media/cover.jpg
 image: https://media.mallorca-touristguide.com/imagenes/1352/mercado%20de%20soller%2026.8.19%20-002.JPG
-content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  <br><br>
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+content:
+  intro: |
+    ¿Te encuentras en el corazón de Sóller? ¡Estás en el lugar adecuado para una experiencia de mercado inolvidable! Este mercado, que abrió sus puertas en 1952, es un imán para visitantes de toda la isla.
+    <br><br>Encontrarás de todo en este mercado, ¡desde productos artesanales hasta delicias gastronómicas y tesoros decorativos! ¿Qué te apetece explorar hoy? Las opciones son infinitas, y seguro que descubrirás algo que te encante.
+    <br><br>¿Sabías que los sábados por la mañana, la ciudad se llena de vida con el tradicional "mercat" semanal ambulante? Es una oportunidad perfecta para sumergirse en la cultura local y descubrir aún más tesoros escondidos. ¿Te gustaría experimentar la emoción de un mercado en movimiento?
+  description: |
+    Y hablando de experiencias locales, ¿has visitado la Plaza de la Constitución? Es uno de los puntos más importantes de Sóller, y está repleta de bares de todos los tipos. ¡No puedes irte sin probar los famosos zumos naturales de naranja de la zona! 
+    <br><br>Así que, ¿estás listo para sumergirte en el bullicio del mercado de Sóller y disfrutar de las delicias locales en la Plaza de la Constitución? ¡Es una experiencia que no te querrás perder en tu visita!
 model:
   glbSrc: /location/5.mercat-soller/model.glb
   usdzSrc: /location/5.mercat-soller/model.usdz

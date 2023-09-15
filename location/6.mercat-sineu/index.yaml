@@ -1,10 +1,13 @@
 title: Mercat de Sineu
 #image: /location/6.mercat-sineu/media/cover.jpg
 image: https://media.mallorca-touristguide.com/imagenes/1258/mercado%20de%20sineu%2012.10.19%20-%20008.JPG
-content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  <br><br>
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+content:
+  intro: |
+    ¿Te atreves a viajar en el tiempo en Sineu? Este es el hogar del mercado más antiguo de Mallorca, con una historia que se remonta a más de 700 años. Este mercado es como un tesoro histórico donde puedes encontrar de todo: desde alimentos frescos hasta ganado, herramientas, ropa y utensilios para el hogar. ¡Las posibilidades son infinitas!
+    <br><br>Y aquí está la guinda del pastel: este mercado es el escenario de numerosos eventos y ferias. ¿Te gustaría visitarlo durante la Feria de Mayo? Es una tradición que se celebra el primer domingo de este mes y es el mercado más grande de todos los que se instalan en Sineu. ¡Seguro que te encantará!
+  description: |
+    Muy cerca del mercado, encontrarás uno de los cementerios más antiguos de la zona, con el primer entierro registrado en 1821. Este cementerio es un lugar de serenidad y reflexión, donde los residentes locales pueden honrar a sus seres queridos. ¡En el año 2021, celebraron el bicentenario de la primera inhumación en este cementerio!
+    <br><br>¿Listo para sumergirte en la historia en el mercado de Sineu, participar en sus festividades y tal vez encontrar un rincón de paz en el antiguo cementerio? ¡Es una experiencia única que te transportará en el tiempo!
 model:
   glbSrc: /location/6.mercat-sineu/model.glb
   usdzSrc: /location/6.mercat-sineu/model.usdz

@@ -1,10 +1,13 @@
 title: Playa de Soller
 #image: /location/11.playa-soller/media/cover.jpg
 image: https://admin.soller.es/uploads/explores/img_explore_10_1527246340.jpeg
-content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  <br><br>
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+content:
+  intro: |
+    Bienvenido a la Playa del Puerto de Sóller, una franja de arena fina que se extiende a lo largo del pintoresco puerto natural de esta encantadora localidad. ¿Tienes ganas de relajarte en este paraíso rodeado de altas montañas de la Sierra de Tramuntana?
+    <br><br>La Playa del Puerto de Sóller es un lugar especial porque combina la belleza natural con la comodidad de estar cerca del núcleo urbano. ¿Te apetece un refrigerio o una comida deliciosa? No tienes que ir muy lejos, ya que encontrarás bares y restaurantes a poca distancia. ¿O tal vez te apetece ir de compras? ¡Las tiendas cercanas tienen mucho que ofrecer!
+  description: |
+    Pero aquí viene una curiosidad histórica fascinante: el tren de Sóller. Este ferrocarril fue la primera vía que conectó la ciudad de Palma con Sóller, un avance histórico clave para la región. La inauguración del tren ocurrió el día después del hundimiento del Titanic, y muchas personas eligieron esta forma de transporte en lugar de viajar en barco. ¿No es interesante cómo la historia de esta región se entrelaza con eventos globales?
+    <br><br>¿Listo para explorar la Playa del Puerto de Sóller, disfrutar de su belleza natural, su oferta gastronómica y sus compras, y tal vez dar un paseo en el histórico tren de Sóller? ¡Es una experiencia que te permitirá conectarte con la historia y la belleza de Mallorca!
 model:
   glbSrc: /location/11.playa-soller/model.glb
   usdzSrc: /location/11.playa-soller/model.usdz

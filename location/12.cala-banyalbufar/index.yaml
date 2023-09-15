@@ -1,10 +1,13 @@
 title: Cala Banyalbufar
 #image: /location/12.cala-banyalbufar/media/cover.jpg
 image: https://playasbaleares.s3.fr-par.scw.cloud/2015/12/banyalbufar1.jpg
-content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  <br><br>
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+content:
+  intro: |
+    ¿Te apetece explorar un rincón natural único en el norte de Mallorca? ¡Bienvenido a la calita de Banyalbufar! Este pequeño paraíso de rocas con una cascada te sumergirá en la belleza de la naturaleza en estado puro. ¿Te imaginas rodeado de acantilados cubiertos de pinos, disfrutando de un ambiente completamente natural?
+    <br><br>La calita de Banyalbufar es un destino de ensueño para los amantes de la naturaleza y el buceo. ¿Eres aficionado al snorkel? Este es el lugar perfecto para explorar las aguas cristalinas y descubrir la vida marina que se esconde bajo la superficie.
+  description: |
+    Pero eso no es todo lo que hace especial a Banyalbufar. Este pueblo tiene una historia fascinante que se remonta a tiempos prehistóricos. ¿Sabías que los talayots, monumentos de la época talayótica construidos con técnica ciclópea, forman parte de su legado histórico? Estas estructuras de piedra seca, con sus cámaras centrales y pasadizos de acceso, ofrecen un vistazo al pasado de la región. Además, los hallazgos arqueológicos indican asentamientos humanos que datan de la Edad del Bronce y la Edad del Hierro en esta área.
+    <br><br>Entonces, ¿estás listo para explorar la calita de Banyalbufar, sumergirte en su belleza natural y descubrir su rica historia? ¡Es una experiencia que te conectará con la naturaleza y la historia de Mallorca!
 model:
   glbSrc: /location/12.cala-banyalbufar/model.glb
   usdzSrc: /location/12.cala-banyalbufar/model.usdz

@@ -1,10 +1,13 @@
 title: Playa de Es Trenc
 #image: /location/10.playa-es-trenc/media/cover.jpg
 image: https://cdn2.click-mallorca.com/blog/wp-content/uploads/2020/05/es-trenc-mallorca-1.jpg
-content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  <br><br>
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+content:
+  intro: |
+    ¿Listo para descubrir una verdadera joya en el sur de Mallorca? Bienvenido a una de las playas más impresionantes y famosas de la isla. Esta playa es conocida por su amplitud, sus aguas cristalinas y su entorno natural inalterado, sin edificios ni tiendas que rompan la armonía con la naturaleza. 
+    <br><br>Lo que realmente hace que esta playa sea especial es su capacidad para ofrecer un espectáculo natural inolvidable: el atardecer. Los colores, la atmósfera y las aguas te brindarán un espectáculo digno de una postal. ¿Te imaginas poder disfrutar de este regalo natural?
+  description: |
+    Esta playa está hecha de arena blanca y fina que se extiende por kilómetros. Además, junto a la playa natural, encontrarás una impresionante zona de lagos de agua salada, lagunas, pantanos y estanques que albergan una diversidad de especies de aves. ¡Explorar este maravilloso ecosistema y después darte un chapuzón en la playa es un plan perfecto!
+    <br><br>¿Listo para vivir la experiencia de una playa virgen, disfrutar de un atardecer espectacular y explorar la belleza natural de los lagos y las aves? ¡Es una experiencia que te conectará con la maravilla de la naturaleza en Mallorca!
 model:
   glbSrc: /location/10.playa-es-trenc/model.glb
   usdzSrc: /location/10.playa-es-trenc/model.usdz

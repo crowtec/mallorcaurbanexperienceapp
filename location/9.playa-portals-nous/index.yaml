@@ -1,10 +1,13 @@
 title: Playa de Portals Nous
 #image: /location/9.playa-portals-nous/media/cover.jpg
 image: https://i0.wp.com/visitcalvia.org/wp-content/uploads/2020/04/SORATORI-PORTALS-NOUS02.png
-content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  <br><br>
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+content:
+  intro: |
+    ¿Te encuentras en la hermosa ciudad de Mallorca? ¡Entonces no puedes perderte la playa de Portals Nous! Esta playa es un verdadero paraíso que destaca por su impresionante entorno y su alta calidad de vida.
+    <br><br>Portals Nous es una de las playas más populares de Mallorca, y no es difícil entender por qué. Es un lugar que atrae tanto a jóvenes como a quienes buscan una experiencia sofisticada y vibrante. ¿Te apetece disfrutar de la vida nocturna y la gastronomía local? Aquí encontrarás una gran variedad de opciones para satisfacer tus gustos culinarios.
+  description: |
+    Pero lo que hace que esta playa sea aún más especial es su ubicación junto al puerto. La presencia de lujosos barcos y yates deportivos crea un ambiente sofisticado y elegante que te hará sentir como si estuvieras en un paraíso para amantes del mar. 
+    <br><br>Así que, ¿estás listo para sumergirte en la belleza de la playa de Portals Nous, disfrutar de la vida nocturna y la gastronomía local, y contemplar la elegancia de los barcos y yates deportivos de lujo? ¡Es una experiencia que te transportará a un mundo de lujo en la isla!
 model:
   glbSrc: /location/9.playa-portals-nous/model.glb
   usdzSrc: /location/9.playa-portals-nous/model.usdz
