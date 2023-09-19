@@ -1,1 +1,0 @@
-import{k as e,o as _,c as a}from"./entry.df04a53e.js";const c={},o={class:"loader"};function s(t,n){return _(),a("span",o)}const d=e(c,[["render",s],["__scopeId","data-v-ae6afdc4"]]);export{d as default};
