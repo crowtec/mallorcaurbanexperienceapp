@@ -1,1 +1,0 @@
-import{l as e,o as _,c as a}from"./entry.1f4c6546.js";const c={},o={class:"loader"};function s(t,n){return _(),a("span",o)}const d=e(c,[["render",s],["__scopeId","data-v-ae6afdc4"]]);export{d as default};
