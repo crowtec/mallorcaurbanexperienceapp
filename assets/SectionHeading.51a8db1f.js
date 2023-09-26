@@ -1,0 +1,1 @@
+import{l as t,o,c as s,k as n}from"./entry.ccd82dae.js";const c={},r={class:"text-5xl font-asul"};function _(e,a){return o(),s("h1",r,[n(e.$slots,"default")])}const f=t(c,[["render",_]]);export{f as default};

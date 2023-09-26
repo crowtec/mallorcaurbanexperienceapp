@@ -1,0 +1,1 @@
+import{c3 as e,c4 as i,K as s}from"./entry.ccd82dae.js";import{P as a}from"./permission.53916802.js";const f=e(async(r,n)=>{let o,t;if(!([o,t]=i(()=>a.requestLocation()),o=await o,t(),o))return s("/")});export{f as default};
