@@ -10,9 +10,8 @@ content:
     Pero aquí viene lo más interesante: los famosos zapatos de esparto. Las espardenyas son una parte icónica de la cultura mallorquina, con su suela de esparto y coloridas telas. ¿Sabías que cerca de Sa Pobla, en Campanet, la fabricación de estos zapatos era una parte importante de la vida de los habitantes? La tradición de los zapatos de esparto es una parte esencial de la historia local.
     <br><br>Entonces, ¿te gustaría explorar este vibrante mercado dominical en Sa Pobla y quizás llevarte a casa un par de espardenyas para recordar tu visita a Mallorca? ¡Es una experiencia que te sumergirá en la auténtica cultura mallorquina!
 model:
-  src: /location/8.mercat-sa-pobla/model.glb
-iosModel:
-  src: /location/8.mercat-sa-pobla/model.usdz
+  glbSrc: /location/8.mercat-sa-pobla/model.glb
+  usdzSrc: /location/8.mercat-sa-pobla/model.usdz
 place:
   name: Mercat de diumenge sa pobla
   id: x9asPu3UKxAcha6cA
